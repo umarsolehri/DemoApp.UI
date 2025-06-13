@@ -51,11 +51,6 @@ npm install
 yarn install
 ```
 
-4. Create a `.env.local` file in the root directory:
-```env
-NEXT_PUBLIC_API_URL=http://localhost:5001
-```
-
 ### Running the Application
 1. Start the development server:
 ```bash
